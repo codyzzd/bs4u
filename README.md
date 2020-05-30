@@ -1,2 +1,3 @@
-bs4u
-## curso de bootstrap 4 do udemy
+# curso de bootstrap 4 do udemy
+* apresentação
+* incluindo cdn
