@@ -1,12 +1,13 @@
 header {
-    margin: 2vh auto;
+  margin: 2vh auto;
 }
 
 .header,
 nav,
 main {
-    background-color: #fff;
-    min-height: 10vh;
+  background-color: #fff;
+  min-height: 10vh;
+  color: red;
 }
 
 
@@ -17,10 +18,10 @@ main {
 }*/
 
 .bg {
-    padding-top: .75rem;
-    padding-bottom: .75rem;
-    border: 1px solid rgb(246, 177, 32, .2);
-    background-color: rgb(246, 177, 32, .15);
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+  border: 1px solid rgb(246, 177, 32, .2);
+  background-color: rgb(246, 177, 32, .15);
 }
 
 @media (min-width: 576px) {}
