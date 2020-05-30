@@ -10,7 +10,6 @@ main {
   color: red;
 }
 
-
 /*
 nav,
 main {
@@ -18,16 +17,20 @@ main {
 }*/
 
 .bg {
-  padding-top: .75rem;
-  padding-bottom: .75rem;
-  border: 1px solid rgb(246, 177, 32, .2);
-  background-color: rgb(246, 177, 32, .15);
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  border: 1px solid rgb(246, 177, 32, 0.2);
+  background-color: rgb(246, 177, 32, 0.15);
 }
 
-@media (min-width: 576px) {}
+@media (min-width: 576px) {
+}
 
-@media (min-width: 768px) {}
+@media (min-width: 768px) {
+}
 
-@media (min-width: 992px) {}
+@media (min-width: 992px) {
+}
 
-@media (min-width: 1200px) {}
+@media (min-width: 1200px) {
+}
